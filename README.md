@@ -33,11 +33,6 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/zeitstrahl-dark.svg">
-  <img src="assets/zeitstrahl-light.svg" width="100%" alt="Vom Patent zum Prompt. Zehn Jahre Hardware und Software fürs Fahrrad: über 50.000 verkaufte Einheiten, Team bis 15 Personen. 2012: Diplom Maschinenbau (Note 1,3); 2013: SMINNO gegründet (EXIST-Stipendium); 2017: Europäisches Patent (EP 2 835 957 B1); 2021: Die Höhle der Löwen (VOX); 2023: PaimardAI (KI im Kundeneinsatz); 2026: Notebookly (lokales RAG).">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/werkzeuge-dark.svg">
   <img src="assets/werkzeuge-light.svg" width="100%" alt="Womit ich baue. RAG: LangChain, ChromaDB, pgvector, Hybrid-Suche, Re-Ranking. Agenten: CrewAI, LangGraph, PydanticAI, MCP, Claude Code. Messen: Ragas, TruLens, eigene Testsets, PyTest, Ruff, Mypy. Betrieb: Python, FastAPI, Docker, Ollama, GitHub Actions, Next.js.">
 </picture>
